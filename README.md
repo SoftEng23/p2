@@ -20,5 +20,5 @@ Note: For development purposes the host is localhost but this will need to be up
 4. cd ../frontend
 5. \$ npm start
 
-# MySQL table
+# MySQL Table
 ![usersTable](https://user-images.githubusercontent.com/102680541/161402943-3581d00b-0fde-4fc3-9c89-f0940a5a11b0.jpg)
