@@ -45,7 +45,8 @@ The application can be deployed onto a Tomcat Server using Spring Tools.
 Bootstrap and components are utilized to create a dynamic Web SPA.
 The front-end view shall use Angular/HTML
 The middle tier shall follow proper layered architecture, have reasonable test coverage of the service layer, and implement log4j for appropriate logging.
-# Stretch Goals: These will count for extra credit and are entirely optional
+## Stretch Goals: 
+These will count for extra credit and are entirely optional
 
 Registration passwords shall be encrypted in Java and securely stored in the database.
 User should receive and confirmation email
