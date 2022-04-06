@@ -23,7 +23,7 @@ Note: For development purposes the host is localhost but this will need to be up
 # MySQL Tables
 ![usersTable](https://user-images.githubusercontent.com/102680541/161402943-3581d00b-0fde-4fc3-9c89-f0940a5a11b0.jpg)
 
-![postsTable](https://user-images.githubusercontent.com/102680541/162085339-1bd982d7-5944-4140-848f-75f0e00dd313.jpg)
+![postsTablep2](https://user-images.githubusercontent.com/102680541/162085560-1b8b0b63-73ca-4081-b81e-48e7e70e4503.jpg)
 
 ## Executive Summary
 
