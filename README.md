@@ -28,7 +28,7 @@ Note: For development purposes the host is localhost but this will need to be up
 The Travel Management System is the most secure system available.
 Individuals with a profile may place a travel request and select and view destinations.
 
-# User Stories
+## User Stories
 
 View destinations
 New users and requests persist to the database
