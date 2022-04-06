@@ -31,12 +31,19 @@ Individuals with a profile may place a travel request and select and view destin
 ## User Stories
 
 View destinations
+
 New users and requests persist to the database
+
 Logged in user can create a travel request
+
 Login
+
 Logout
+
 Sign up/register
+
 Select a destination from Tavel Page
+
 
 ## Technical Requirements
 
