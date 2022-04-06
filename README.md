@@ -23,12 +23,12 @@ Note: For development purposes the host is localhost but this will need to be up
 # MySQL Table
 ![usersTable](https://user-images.githubusercontent.com/102680541/161402943-3581d00b-0fde-4fc3-9c89-f0940a5a11b0.jpg)
 
-##Executive Summary
+## Executive Summary
 
 The Travel Management System is the most secure system available.
 Individuals with a profile may place a travel request and select and view destinations.
 
-#User Stories
+# User Stories
 
 View destinations
 New users and requests persist to the database
@@ -38,7 +38,7 @@ Logout
 Sign up/register
 Select a destination from Tavel Page
 
-##Technical Requirements
+## Technical Requirements
 
 The back-end system shall use JDBC connect to an AWS RDS or MySQL database.
 The application can be deployed onto a Tomcat Server using Spring Tools.
