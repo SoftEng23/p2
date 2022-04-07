@@ -9,9 +9,10 @@
   "host": "localhost",
   "user": "root",
   "database": "posts",
-  "password": "< password >"
+  "password": "password"
 }
 ```
+Create the database tables below and refer to the main branch for the latest demo.
 
 Note: For development purposes the host is localhost but this will need to be updated if you decide to deploy the application. By Default, MySQL gives the user 'root' with all privileges. You can simply change this to another user if desired. In this application we named our database 'posts', however, if you went with a different name this will need to be changed.
 
@@ -51,14 +52,19 @@ Select a destination from Tavel Page
 ## Technical Requirements
 
 The back-end system shall use JDBC connect to an AWS RDS or MySQL database.
+
 The application can be deployed onto a Tomcat Server using Spring Tools.
+
 Bootstrap and components are utilized to create a dynamic Web SPA.
-The front-end view shall use Angular/HTML
+
+The front-end view shall use Angular/HTML.
+
 The middle tier shall follow proper layered architecture, have reasonable test coverage of the service layer, and implement log4j for appropriate logging.
 
 ## Stretch Goals: 
+
 These will count for extra credit and are entirely optional:
 
 Registration passwords shall be encrypted in Java and securely stored in the database.
 
-User should receive and confirmation email
+User should receive and confirmation email.
